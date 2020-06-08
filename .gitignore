@@ -6,9 +6,7 @@ amd/
 !tools/amd/
 lib/
 !tools/lib/
-es/
 !tools/es/
-dist/
 !tools/dist/
 tmp-*-repo/
 .babel-cache/
